@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <package>
   <metadata>
-    <id>Datadog.AzureAppServices</id>
-    <version>0.4.0-prerelease</version>
-    <title>.NET Datadog APM [Beta]</title>
+    <id>Datadog.AzureAppServices.DotNet</id>
+    <version>1.4.0</version>
+    <title>.NET Datadog APM</title>
     <authors>Datadog</authors>
     <icon>icon.png</icon>
     <license type="expression">Apache-2.0</license>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>
-      Beta Datadog .NET Tracer
+      Application monitoring for .NET by Datadog.
     </description>
-    <tags>AzureSiteExtension Datadog .NET APM Tracing Tracer</tags>
+    <tags>AzureSiteExtension Datadog .NET APM Tracing Tracer Monitoring</tags>
     <packageTypes>
       <packageType name="AzureSiteExtension" />
     </packageTypes>  
